@@ -1,7 +1,7 @@
 ### Olá eu sou o vinicius 👋
 
 [![Portifolio](https://img.shields.io/website?label=ViniciusNNascimento.com&style=for-the-badge&url=https://viniciusnnascimento.github.io/portifolio)](https://viniciusnnascimento.github.io/portifolio)
-[![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🖥️ developer
+## 🖥️ Desenvolvedor entusiasta por novas tecnologias
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
 
