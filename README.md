@@ -20,8 +20,5 @@
 </div>
 
 <br/>
-
-## 🖥️ Desenvolvedor entusiasta por novas tecnologias
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
-
+## 🖥️ Desenvolvedor entusiasta por novas tecnologias
