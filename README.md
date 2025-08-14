@@ -1,6 +1,6 @@
 ### Olá eu sou o vinicius 👋
 
-[![Portifolio](https://img.shields.io/website?label=ViniciusNNascimento.com&style=for-the-badge&url=https://viniciusnnascimento.github.io/portifolio)](https://viniciusnnascimento.github.io/portifolio)
+[![Portifolio](https://img.shields.io/website?label=ViniciusNNascimento.com&target_blank&style=for-the-badge&url=https://viniciusnnascimento.github.io/portifolio)](https://viniciusnnascimento.github.io/portifolio)
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
