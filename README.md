@@ -19,6 +19,9 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-<br/>
+<div><br/>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
+</div>
+
 ## 🖥️ Desenvolvedor entusiasta por novas tecnologias
