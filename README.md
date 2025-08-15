@@ -1,7 +1,7 @@
 ## Olá eu sou o vinicius 👋
 
 [![Portifolio](https://img.shields.io/website?label=ViniciusNNascimento.com&style=for-the-badge&url=https://viniciusnnascimento.github.io/portifolio)](https://viniciusnnascimento.github.io/portifolio)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-nascimento-731806205/)
 
 
 
@@ -32,10 +32,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-
+##
 <div align="" width="" >
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
 </div>
+
 
 ## 🖥️ Desenvolvedor entusiasta por novas tecnologias
