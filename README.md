@@ -1,20 +1,24 @@
 ## Olá eu sou o vinicius 👋
 
+<div width="10%" >
+  
 [![Portifolio](https://img.shields.io/website?label=ViniciusNNascimento.com&style=for-the-badge&url=https://viniciusnnascimento.github.io/portifolio)](https://viniciusnnascimento.github.io/portifolio)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-nascimento-731806205/)
+
+[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/vinicius-nascimento-731806205/)
+[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)]()
+[![Instagram](https://www.vectorlogo.zone/logos/github/github-ar21.svg)]()
+</div>
 
 
 
 
-<p>
-
-  <div align="" width="55%" alt="vincius's" href="https://github.com/ViniciusNNascimento">
+  <div align="center" width="55%" alt="vincius's" href="https://github.com/ViniciusNNascimento">
 
   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusNNascimento&show_icons=true&theme=dracula)
   </div>
 
   ## Tecnologias
-
+<p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -33,7 +37,7 @@
 </p>
 
 ##
-<div align="" width="" >
+<div align="center" width="" >
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
 </div>
