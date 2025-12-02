@@ -1,46 +1,130 @@
-## Olá eu sou o vinicius 👋
+# 👋 Olá, eu sou o Vinicius!
 
-<div width="10%" >
-  
-[![Portifolio](https://img.shields.io/website?label=ViniciusNNascimento.com&style=for-the-badge&url=https://viniciusnnascimento.github.io/portifolio)](https://viniciusnnascimento.github.io/portifolio)
+<div align="center">
 
-[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/vinicius-nascimento-731806205/)
-[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)]()
-[![Instagram](https://www.vectorlogo.zone/logos/github/github-ar21.svg)]()
-</div>
+### 🌐 Conecte-se Comigo
 
-
-
-
-  <div align="center" width="55%" alt="vincius's" href="https://github.com/ViniciusNNascimento">
-
-  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusNNascimento&show_icons=true&theme=dracula)
-  </div>
-
-  ## Tecnologias
-<p align="center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<p>
+  <a href="https://viniciusnnascimento.github.io/portifolio" target="_blank">
+    <img height="40" src="https://skillicons.dev/icons?i=web" alt="Portfólio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vinicius-nascimento-731806205/" target="_blank">
+    <img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com" target="_blank">
+    <img height="40" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ViniciusNNascimento" target="_blank">
+    <img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
 </p>
 
-##
-<div align="center" width="" >
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
 </div>
 
+---
 
-## 🖥️ Desenvolvedor entusiasta por novas tecnologias
+## 🚀 Sobre mim
+
+Sou um desenvolvedor entusiasta por novas tecnologias, apaixonado por resolver problemas, aprender constantemente e criar soluções que fazem diferença.  
+Atualmente estudo e desenvolvo projetos envolvendo backend, frontend e automações.
+
+💡 Foco em desenvolvimento Full Stack  
+📚 Sempre explorando ferramentas modernas e boas práticas  
+🔥 Construindo projetos reais e evoluindo todos os dias
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+### 🚀 Backend
+<p align="center">
+  <code><img width="10%" src="https://skillicons.dev/icons?i=java"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=nodejs"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=spring"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=python"></code>
+</p>
+
+### 💡 Frontend
+<p align="center">
+  <code><img width="10%" src="https://skillicons.dev/icons?i=html"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=css"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=javascript"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=typescript"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=react"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=nextjs"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=tailwind"></code>
+</p>
+
+### 🛢️ Banco de Dados
+<p align="center">
+  <code><img width="10%" src="https://skillicons.dev/icons?i=mysql"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=postgres"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=mongodb"></code>
+</p>
+
+### ⚙️ DevOps & Infra
+<p align="center">
+  <code><img width="10%" src="https://skillicons.dev/icons?i=docker"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=aws"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=linux"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=bash"></code>
+</p>
+
+### 🧪 Testes & Qualidade
+<p align="center">
+  <code><img width="10%" src="https://skillicons.dev/icons?i=postman"></code>
+</p>
+
+### 🛠️ Ferramentas de Desenvolvimento
+<p align="center">
+  <code><img width="10%" src="https://skillicons.dev/icons?i=git"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=github"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=vscode"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=idea"></code>
+</p>
+
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusNNascimento&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNNascimento&layout=donut)
+
+</div>
+
+---
+
+## 🚀 Formação e Projetos na DIO
+
+Atualmente participo dos cursos e bootcamps da **Digital Innovation One (DIO)**, realizando desafios de código e projetos práticos que fortalecem minhas habilidades nas seguintes áreas:
+
+- Desenvolvimento Full Stack  
+- Backend com Java 
+- Frontend com React 
+- Boas práticas de Git/GitHub  
+- Projetos e desafios práticos em squad  
+
+📌 Meus repositórios da DIO estão organizados aqui no GitHub e representam minha evolução contínua na plataforma.
+
+---
+
+## 🔥 Objetivo
+
+Continuar aprendendo, aprimorando minhas habilidades e construindo projetos reais que ajudem pessoas e empresas.
+
+💬 Se quiser trocar ideias, colaborar ou conversar sobre tecnologia, estou sempre aberto!
+
+---
+
+<div align="center">
+  
+✨ *Obrigado por visitar meu perfil!* ✨
+
+</div>
