@@ -94,9 +94,11 @@ Atualmente estudo e desenvolvo projetos envolvendo backend, frontend e automa√ß√
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitiws&layout=donut)](https://github.com/vinitiws/github-readme-stats)
+![GitHub stats](https://github-readme-stats.zcy.dev/api?username=vinitiws&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitiws&layout=donut)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=vinitiws&layout=donut)
+
+
 
 </div>
 
