@@ -93,7 +93,8 @@ Atualmente estudo e desenvolvo projetos envolvendo backend, frontend e automa√ß√
 
 <div align="center">
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitiws&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitiws&layout=donut)](https://github.com/vinitiws/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitiws&layout=donut)
 
